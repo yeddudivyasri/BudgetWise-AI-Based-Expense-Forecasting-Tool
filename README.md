@@ -1,4 +1,4 @@
-BudgetWise — AI Expense Tracking & Forecasting System
+BudgetWise — AI Expense Tracking & Forecasting System [virtual internship  Infosys Springboard Internship 6.0]
 
 BudgetWise is a web-based personal finance management system that allows users to record expenses, analyze spending patterns, and predict future monthly expenses using Machine Learning (Linear Regression).
 It provides visual insights through interactive graphs and helps users make smarter budgeting decisions.
